@@ -21,9 +21,6 @@ Algunos insights iniciales:
 - Manhattan y Brooklyn concentran la mayoría de alojamientos.
 - El tipo de habitación influye claramente en el precio.
 
-![Mapa alojamientos](images/mapa_airbnb.png)
-![Distribución precio](images/distribucion_precio.png)
-
 ---
 
 ## 🧼 Preprocesado de Datos
